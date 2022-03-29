@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @LeonardoC1302
+- 👀 I’m interested in computer science, cybersecurity, coding  and more!
+- 🌱 I’m currently studying Computer Engineering.
+- 💞️ I’m looking to collaborate on computer science projects.
