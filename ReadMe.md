@@ -1,3 +1,4 @@
+![Banner](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 # 💫 About Me:
 🔭 I’m currently studying Computer Science/Computer Engineering<br>👯 I’m looking to collaborate on several coding projects and competitions<br>🌱 I’m currently learning about Web Development<br>💬 Costa Rica Institute of Technology (ITCR)<br>📖 Scientific Highschool of Alajuela<br>⚡ I really enjoy taking challenges and learning new things
 
