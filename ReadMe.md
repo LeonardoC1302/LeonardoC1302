@@ -22,7 +22,7 @@
 ⚡ Check out my projects <a href='https://github.com/LeonardoC1302?tab=repositories'> here </a>
 </p>
 
-<br>
+<br><br><br>
 <hr>
 <h2 align='center'>🔧 Technologies & Tools
 
@@ -43,7 +43,7 @@
     </a>
 </div>
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
