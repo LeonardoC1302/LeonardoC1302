@@ -13,7 +13,7 @@
 <br>
 👯 I’m looking to collaborate on coding projects and competitions
 <br>
-🌱 I’m currently learning about Web Development
+🌱 I’m currently learning about Cybersecurity and DevOps
 <br>
 💻 Costa Rica Institute of Technology (ITCR)
 <br>
